@@ -1,0 +1,8 @@
+comandos
+cd:change directory:cambiar directorio
+touch:crea archivos
+rm:borrar
+git status:saber como estamos
+git config:
+git restore:restautrar archivo
+list: who knows
